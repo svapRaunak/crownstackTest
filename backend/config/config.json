@@ -1,0 +1,6 @@
+{
+    "port"      : 3005,
+    "authkey" 	: 123456,
+    "mongoUrl": "mongodb+srv://admin:admin@testnews-lmvze.mongodb.net/test",
+    "database": "todo"
+}
